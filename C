@@ -3,5 +3,10 @@ dumbidea C12
 master C10
 master C9
 master C3
+iss91v2 C11
+iss91v2 C8
+iss91v2 C7
+iss91  C4
+iss91  C2
 master C1
 master C0
