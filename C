@@ -10,3 +10,22 @@ iss91  C4
 iss91  C2
 master C1
 master C0
+
+
+----- the last graph -----
+
+
+				*   f170597 (HEAD, master) merge by handle C14
+				|\  
+9dfb8fb (dumbidea) dumbidea C13	* * 893c29f (iss91v2) iss91v2 C11  
+	43751ec dumbidea C12	* * 5b34653 iss91v2 C8  
+	80993c8 master C10	* * 7ba9ade iss91v2 C7  
+	ff51c29 master C9	* * 9b2a333 iss91 C4  
+	11f8785 master C3	* * f449e5d iss91 C2 
+				|/  
+				* a709536 master C1
+				* 3a82b69 master C0
+				* 2e63af3 (origin/master, origin/HEAD)
+				* a6e198c Update README.md
+				* 2ee956f Update README.md
+				* 8ff1813 Initial commit
